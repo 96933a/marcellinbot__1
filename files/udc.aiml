@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that.</template>
+  </category>
+  
+  <topic name ="locations">
+
+<category>
+    <pattern>Where is the Marist House?</pattern>
+    <template>At the top right of the school, across from the hermitage and near the Marian House.</template>
+</category>
+
+<category>
+    <pattern>Where is the Hermatige?</pattern>
+    <template>You can find the hermatige next to the quadrangle, across from the library and on the right from admara.</template>
+</category>
+
+<category>
+    <pattern>Where is student services?</pattern>
+    <template>Student Services is in the Hermitage on the ground level on the right, across from Marist House.</template>
+</category>
+
+<category>
+    <pattern>Where is the Quadrangle?</pattern>
+    <template>In the open area of the school. Infront of the Hermitage, Library and Admara.</template>
+</category>
+
+<category>
+    <pattern>Where is Montagne?</pattern>
+    <template>Next to the bottom part of Admara and across from the Sheds and Le Rosey Technology Centre.</template>
+</category>
+
+<category>
+    <pattern>Where are the Techs?</pattern>
+    <template>At the back of the Marist House</template>
+</category>
+
+<category>
+    <pattern>Where is St Marcellin's Hall?</pattern>
+    <template>You can find it at the veryleft of the school where the gym is, it is next to the tennis courts and the bray oval. </template>
+</category>
+
+<category>
+    <pattern>Where is Admara?</pattern>
+    <template>Infront of the Quadrangle and Hermitage, and next to the library and Montagne, in the middle of the school.</template>
+</category>
+
+<category>
+    <pattern>Where is Fourviere?</pattern>
+    <template>Next to the Bottom part of the Library and behind the Admara.</template>
+</category>
+
+<category>
+    <pattern>Where is the Placidus Resource Centre?</pattern>
+    <template>You can find the building in front of the Quadrangle, and it is in the Library</template>
+</category>
+
+<category>
+    <pattern>Where is the Chapel?</pattern>
+    <template>Across from the Library and in the middle of the school.</template>
+</category>
+
+<category>
+    <pattern>Where are the drama rooms?</pattern>
+    <template>Behind the Canteen and to the right, the bulding is near the bottom of the school next to the bus stops.</template>
+</category>
+
+<category>
+    <pattern>Where are the music rooms?</pattern>
+    <template>In front of the canteen, on the right and down the hall.</template>
+</category>
+
+<category>
+    <pattern>Where is the Canteen?</pattern>
+    <template>At the bottom of the school near the drama and music rooms. In front of the main carpark.</template>
+</category>
+
+<category>
+    <pattern>Where is the functions room?</pattern>
+    <templateAt the back of the canteen near the bottom of the school.></template>
+</category>
+
+<category>
+    <pattern>Where is the wood tech rooms?</pattern>
+    <template>Across from montagne and next to the sheds.</template>
+</category>
+
+<category>
+    <pattern>Where are the bus stops?</pattern>
+    <template>The main one is at the bottom of the school.</template>
+</category>
+
+<category>
+    <pattern>Where is the emergency evacuation area?</pattern>
+    <template>On the Bray Oval</template>
+</category>
+
+<category>
+    <pattern>Where is the Marian House?</pattern>
+    <template>At the top left on the school.</template>
+</category>
+
+<category>
+    <pattern>Where are the Other Bus stops?</pattern>
+    <template>On Sandra Street, if you walk either left or right down the road, you will see the bus stops.</template>
+</category>
+
+<category>
+    <pattern>Hello</pattern>
+    <template>Hi</template>
+</category>
+
+<category>
+    <pattern>How are you?</pattern>
+    <template>I'm Alright, what about you?</template>
+</category>
+
+<category>
+    <pattern>I need to find a location?</pattern>
+    <template>Where do you want to go?</template>
+</category>
+
+<category>
+    <pattern>I'm Okay</pattern>
+    <template>Thats Great!</template>
+</category>
+  </topic>
+  
