@@ -5,15 +5,12 @@
     <template>I have no answer for that.</template>
   </category>
   
-  <topic name ="locations">
-
-<category>
-    <pattern>Where is the Marist House?</pattern>
-    <template>At the top right of the school, across from the hermitage and near the Marian House.</template>
-</category>
-
-<category>
-    <pattern>Where is the Hermatige?</pattern>
+  <category>
+      <pattern>Where is the Marist House?</pattern>
+      <template>At the top right of the school, across from the hermitage and near the Marian House.</template>
+  </category>
+  
+      <pattern>Where is the Hermatige?</pattern>
     <template>You can find the hermatige next to the quadrangle, across from the library and on the right from admara.</template>
 </category>
 
@@ -99,7 +96,7 @@
 
 <category>
     <pattern>Where is the Marian House?</pattern>
-    <template>At the top left on the school.</template>
+    <template>At the top left of the school.</template>
 </category>
 
 <category>
@@ -122,9 +119,5 @@
     <template>Where do you want to go?</template>
 </category>
 
-<category>
-    <pattern>I'm Okay</pattern>
-    <template>Thats Great!</template>
-</category>
-  </topic>
   
+</aiml>
